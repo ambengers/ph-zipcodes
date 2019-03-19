@@ -1,0 +1,29 @@
+{
+    "name": "ambengers/ph-zipcodes",
+    "description": "Philippines Zipcode Directory in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marvin Quezon",
+            "email": "quezon.marvin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ambengers\\PHZipCodes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ambengers\\PHZipCodes\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev"
+}
