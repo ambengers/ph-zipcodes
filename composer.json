@@ -1,6 +1,11 @@
 {
     "name": "ambengers/ph-zipcodes",
     "description": "Philippines Zipcode Directory in PHP.",
+    "keywords": [
+        "php",
+        "philippines",
+        "zipcode"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
